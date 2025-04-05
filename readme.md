@@ -27,7 +27,7 @@ After it wakes it interrupts all the wake processes by SIGSTOP (signal number 19
 We have implemented a shared memory by the name of "YOYO" and size 4096 bytes. In it every process stored two things, its pid and priority(1 by default) which is received by the scheduler<br>
 
 <h2>Basic usage of the shell</h2>
-echo jaat dont cheat
+echo jaat rules
 
 <h2> Statistics for completion time and waiting time for scheduler-></h2>
 Cnnsider time slice to be 10ms, and 1 cpu<br>
